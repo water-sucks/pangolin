@@ -1430,6 +1430,9 @@
         "and": "en",
         "privacyPolicy": "privacybeleid"
     },
+    "signUpMarketing": {
+        "keepMeInTheLoop": "Keep me in the loop with news, updates, and new features by email."
+    },
     "siteRequired": "Site is vereist.",
     "olmTunnel": "Olm Tunnel",
     "olmTunnelDescription": "Gebruik Olm voor clientconnectiviteit",
